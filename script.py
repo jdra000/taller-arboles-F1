@@ -1,4 +1,4 @@
-# Laura Natalia Ballesteros Gualdrón 
+# Laura Natalia Ballesteros Gualdrón 2221650
 # Juan David Rey Ardila 2210080
 class node:
     def __init__(self, data):
